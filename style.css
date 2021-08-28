@@ -67,6 +67,7 @@ background-attachment: fixed;
 }
 .user-box p{
    color: #fff;
+    text-align: center;
 }
 .scroll-btn{
     bottom:30px;
@@ -147,9 +148,9 @@ background-attachment: fixed;
     width: 25px !important;
 }
 .navbar-brand img{
-    height: 42px;
-    width: 47px;
-    border: 1px solid #000;
+    height: 67px;
+    width: 87px;
+    /* border: 1px solid #000; */
     border-radius: 42px;
     transition: transform 0.9s;
 } 
