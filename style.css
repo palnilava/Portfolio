@@ -53,6 +53,10 @@ background-attachment: fixed;
     position: absolute;
 }
 
+.auto{
+    font-size: xxx-large;
+}
+
 .user-box img{
     border-radius: 201px;
     width: 252px;
